@@ -1,0 +1,15 @@
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+/usr/bin/ruby -r ./siteconf20160718-9779-1wwr19y.rb extconf.rb
+creating Makefile
+
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.so
+
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/websocket-driver-0.6.4/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.so ./.gem.20160718-9779-1tkm2uk

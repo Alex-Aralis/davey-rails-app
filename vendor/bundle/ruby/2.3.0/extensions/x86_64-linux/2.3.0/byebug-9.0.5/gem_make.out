@@ -1,0 +1,19 @@
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+/usr/bin/ruby -r ./siteconf20160718-9779-xwrfjn.rb extconf.rb
+creating Makefile
+
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR="
+compiling byebug.c
+compiling context.c
+compiling locker.c
+compiling breakpoint.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/developer/xternbootcamp/week8/davey_app/vendor/bundle/ruby/2.3.0/gems/byebug-9.0.5/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20160718-9779-1n5valc/byebug
